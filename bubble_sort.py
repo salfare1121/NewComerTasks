@@ -1,3 +1,6 @@
+# Quick sort 100 random numbers between 0 and 100
+# Print all steps
+
 import random
 
 def bubble_sort(dl):

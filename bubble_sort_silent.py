@@ -1,3 +1,6 @@
+# Bubble sort 10000 random numbers between 0 and 10000
+# Print the Initial list and final result only.
+
 import random
 
 def bubble_sort_silent(dl):
